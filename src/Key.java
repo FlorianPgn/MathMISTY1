@@ -28,18 +28,18 @@ public class Key {
 				System.out.println();
 		}
 		
-//		
-//		System.out.println("Chiffrement");
-//		int d0 = 4787166332333684000L & 0xFFFFFFFF;
-//		System.out.println(d0);
-//		//int d1 = K
-//		for (int i = 0; i < 8; i++) {
-//			if(i%2 == 0){
-//				
-//			}else {
-//				
-//			}
-//		}
+		
+		System.out.println("Chiffrement");
+		//int d0 = 4787166332333684000L & 0xFFFFFFFF;
+		System.out.println(d0);
+		//int d1 = K
+		for (int i = 0; i < 8; i++) {
+			if(i%2 == 0){
+				
+			}else {
+				
+			}
+		}
 	}
 
 	/**
